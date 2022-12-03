@@ -1,0 +1,5 @@
+﻿  HomeWork2.cpp
+C:\Users\user\source\repos\HomeWork2\HomeWork2\HomeWork2.cpp(48,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  StructLib.h
+  Создание кода...
+  HomeWork2.vcxproj -> C:\Users\user\source\repos\HomeWork2\Debug\HomeWork2.exe
