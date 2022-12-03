@@ -1,0 +1,25 @@
+﻿  Consal.c
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(64,16): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(64,16): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(65,79): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(79,40): warning C4047: =: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(82,10): warning C4473: "printf": передано недостаточно аргументов для строки формата
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(82,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 0
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(82,10): message : отсутствующий вариативный аргумент "1" требуется для строки форматирования "%d"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(93,10): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int *"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(211,23): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int *(*)[3]"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(211,17): warning C4024: EaseSearch: различные типы для формального и фактического параметров 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(214,22): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int *(*)[3]"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(214,16): warning C4024: SortArray: различные типы для формального и фактического параметров 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(215,22): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int *(*)[3]"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(215,16): warning C4024: BinSearch: различные типы для формального и фактического параметров 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(226,22): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int *(*)[3]"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(226,16): warning C4024: SortArray: различные типы для формального и фактического параметров 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(241,17): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int *(*)[3]"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(241,11): warning C4024: input: различные типы для формального и фактического параметров 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(244,22): warning C4047: функция: "int **" отличается по уровням косвенного обращения от "int *(*)[3]"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(244,16): warning C4024: PrintArray: различные типы для формального и фактического параметров 1
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(191,1): warning C4047: инициализация: "int *" отличается по уровням косвенного обращения от "int"
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(192,6): warning C4101: SearchItem: неиспользованная локальная переменная
+C:\Users\user\source\repos\ConsalTest\Consale\Consal.c(176): warning C4716: BinSearch: должна возвращать значение
+  Consale.vcxproj -> C:\Users\user\source\repos\ConsalTest\Debug\Consale1.exe

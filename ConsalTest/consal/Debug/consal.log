@@ -1,0 +1,5 @@
+﻿  consal.c
+C:\Users\user\source\repos\ConsalTest\consal\consal.c(141): warning C4474: "printf" : для строки формата передано слишком много аргументов
+  C:\Users\user\source\repos\ConsalTest\consal\consal.c(141): note: заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\user\source\repos\ConsalTest\consal\consal.c(142): warning C4267: инициализация: преобразование из "size_t" в "SHORT"; возможна потеря данных
+  consal.vcxproj -> C:\Users\user\source\repos\ConsalTest\Debug\consal.exe

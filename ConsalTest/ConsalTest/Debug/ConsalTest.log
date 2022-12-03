@@ -1,0 +1,5 @@
+﻿  ConsalTest.c
+C:\Users\user\source\repos\ConsalTest\ConsalTest\ConsalTest.c(142): warning C4474: 'printf' : too many arguments passed for format string
+  C:\Users\user\source\repos\ConsalTest\ConsalTest\ConsalTest.c(142): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\user\source\repos\ConsalTest\ConsalTest\ConsalTest.c(143): warning C4267: 'initializing': conversion from 'size_t' to 'SHORT', possible loss of data
+  ConsalTest.vcxproj -> C:\Users\user\source\repos\ConsalTest\Debug\ConsalTest.exe
